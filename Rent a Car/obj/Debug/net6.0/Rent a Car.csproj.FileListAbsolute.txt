@@ -1,0 +1,12 @@
+D:\SimonMall\Rent a Car\Rent a Car\bin\Debug\net6.0\Rent a Car.deps.json
+D:\SimonMall\Rent a Car\Rent a Car\bin\Debug\net6.0\Rent a Car.dll
+D:\SimonMall\Rent a Car\Rent a Car\bin\Debug\net6.0\Rent a Car.pdb
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\Rent a Car.csproj.AssemblyReference.cache
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\Rent a Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\Rent a Car.AssemblyInfoInputs.cache
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\Rent a Car.AssemblyInfo.cs
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\Rent a Car.csproj.CoreCompileInputs.cache
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\Rent a Car.dll
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\refint\Rent a Car.dll
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\Rent a Car.pdb
+D:\SimonMall\Rent a Car\Rent a Car\obj\Debug\net6.0\ref\Rent a Car.dll

@@ -1,0 +1,12 @@
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\bin\Debug\net6.0\CarRentalPrice.deps.json
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\bin\Debug\net6.0\CarRentalPrice.dll
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\bin\Debug\net6.0\CarRentalPrice.pdb
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\CarRentalPrice.csproj.AssemblyReference.cache
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\CarRentalPrice.GeneratedMSBuildEditorConfig.editorconfig
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\CarRentalPrice.AssemblyInfoInputs.cache
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\CarRentalPrice.AssemblyInfo.cs
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\CarRentalPrice.csproj.CoreCompileInputs.cache
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\CarRentalPrice.dll
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\refint\CarRentalPrice.dll
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\CarRentalPrice.pdb
+D:\SimonMall\Bob-s-New-Business-Rent-a-Car\Rent a Car\obj\Debug\net6.0\ref\CarRentalPrice.dll
